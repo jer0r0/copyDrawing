@@ -13,7 +13,7 @@ let prevMouseX, prevMouseY, snapshot,
 isDrawing = false,
 selectedTool = "brush",
 brushWidth = 5,
-selectedColor = "#000";
+selectedColor = "#fffff0";
 
 const setCanvasBackground = () => {
     // setting whole canvas background to white, so the downloaded img background will be white
